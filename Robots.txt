@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cart/
+Disallow: /plugin/
+Disallow: /common/
+Disallow: /download-app/
+Disallow: /reqwest/
+Disallow: /lazada*
+Disallow: /assets/
+Disallow: /search-box/
+Disallow: /liveup/
+Disallow: /ailog/
+Sitemap: https://koerperhalle.de/sitemap.xml
